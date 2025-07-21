@@ -1,3 +1,3 @@
 # demo
 this is for demo purpose only
-Author -Rushikesh Korde
+Author -Rushikesh Sandip Korde
